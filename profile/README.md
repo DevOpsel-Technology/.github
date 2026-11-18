@@ -1,8 +1,8 @@
 # DevOpsel Technology
 
-### Tu proyecto necesita funcionar. No complicarse.
+### Tu proyecto necesita funcionar. Sin complicaciones.
 
-**Desarrollo, despliego, mantengo y automatizo webs y aplicaciones para pymes.** Trabajo tanto en el software como en los sistemas donde se ejecuta, desde España.
+**Desarrollo, despliego, mantengo y automatizo webs y aplicaciones para pymes.** Me encargo tanto de su desarrollo como de su puesta en marcha y mantenimiento.
 
 DevOpsel Technology es mi espacio técnico como freelance: aquí comparto lo que construyo, las herramientas que utilizo y lo que todavía estoy aprendiendo.
 
@@ -19,14 +19,12 @@ DevOpsel Technology es mi espacio técnico como freelance: aquí comparto lo que
 |---|---|---|
 | **DevSel Trivia** | Aplicación de preguntas con funcionalidades multijugador | [Ver aplicación](https://trivia-app-frontend-self.vercel.app/) |
 | **DevSel Traductor** | Lector y traductor de documentos PDF con IA | [Ver repositorio](https://github.com/DevOpsel-Tech/Devsel-Traductor) |
-| **CloudSel** | Plataforma propia para gestionar despliegues; todavía en desarrollo | Próximamente |
-| **Automatización de infraestructura** | Prácticas y herramientas con Ansible y Docker | En preparación |
 
 **En desarrollo y exploración:** CloudSel, Kubernetes/K3s, inteligencia artificial y agentes, y seguridad aplicada a software y sistemas. Son líneas de trabajo y aprendizaje, no servicios que presente como terminados.
 
 ## Tecnologías
 
-**Desarrollo:** Java · Spring Boot · TypeScript · React · Node.js · PostgreSQL
+**Desarrollo:** TypeScript · React · Node.js · PostgreSQL · Java · Spring Boot
 
 **Sistemas y DevOps:** Linux · Docker · Proxmox · Ansible · Git · CI/CD
 
@@ -45,8 +43,4 @@ DevOpsel Technology es mi espacio técnico como freelance: aquí comparto lo que
 ¿Tienes un proyecto o quieres comentar una necesidad técnica? Puedes escribirme sin compromiso.
 
 **Email:** [jlmn85@outlook.es](mailto:jlmn85@outlook.es)  
-**Web:** Próximamente
 
----
-
-*DevOpsel Technology · Desarrollo y sistemas desde España.*
