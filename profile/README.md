@@ -1,37 +1,85 @@
 # DevOpsel Technology
 
-### Tu proyecto necesita funcionar. Sin complicaciones.
+### Desarrollo de software · Sistemas · DevOps · Automatización
 
-**Desarrollo, despliego, mantengo y automatizo webs y aplicaciones para pymes.** Me encargo tanto de su desarrollo como de su puesta en marcha y mantenimiento.
+**Del código a la infraestructura, con soluciones prácticas y mantenibles.**
 
-DevOpsel Technology es mi espacio técnico como freelance: aquí comparto lo que construyo, las herramientas que utilizo y lo que todavía estoy aprendiendo.
+DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrollo de aplicaciones, la administración de sistemas y la automatización de entornos digitales. Trabajo con una perspectiva integral: construir software, preparar su infraestructura y facilitar su mantenimiento sin complejidad innecesaria.
 
-## En qué puedo ayudarte
+## 🧭 Áreas de actividad
 
-- **Desarrollo web y aplicaciones:** páginas web, paneles de gestión, APIs e integraciones con bases de datos.
-- **Puesta en marcha:** despliegue de aplicaciones, configuración de servidores Linux y Docker.
-- **Mantenimiento técnico:** actualizaciones, copias de seguridad y tareas habituales de administración.
-- **Automatización:** scripts, Ansible y flujos de integración y despliegue continuo.
+| Área | Enfoque |
+|---|---|
+| 💻 **Desarrollo Full Stack** | Aplicaciones web, APIs REST, interfaces, servicios backend y bases de datos. |
+| 🔄 **DevOps y automatización** | Docker, CI/CD, scripts, Ansible y procesos de despliegue. |
+| 🏗️ **Sistemas e infraestructura** | Linux, Windows Server, virtualización, almacenamiento y copias de seguridad. |
+| 🛡️ **Seguridad y DevSecOps** | Configuración segura, control de accesos, hardening y buenas prácticas de desarrollo seguro. |
+| 🧠 **Inteligencia artificial** | Formación y exploración de integraciones y automatización inteligente. |
+| 🧰 **Herramientas y soporte técnico** | Diagnóstico, configuración, mantenimiento y resolución de incidencias. |
 
-## Tecnologías
+Estas áreas combinan trabajo práctico con especialización técnica continua. La formación en Administración de Sistemas Informáticos en Red (ASIR) complementa mi experiencia en desarrollo y amplía progresivamente el alcance en infraestructura, redes y seguridad. Cada propuesta se ajusta a la experiencia y los recursos disponibles.
 
-**Desarrollo:** TypeScript · React · Node.js · PostgreSQL · Java · Spring Boot
+## 🤝 Servicios y modalidades de colaboración
 
-**Sistemas y DevOps:** Linux · Docker · Proxmox · Ansible · Git · CI/CD
+Ayudo a profesionales, pymes y equipos técnicos a desarrollar, poner en marcha y mantener soluciones digitales.
 
-## Cómo trabajo
+- **Desarrollo de aplicaciones:** webs, paneles, APIs, integraciones y evolución de software existente.
+- **Infraestructura y despliegue:** configuración de servidores, contenedores, virtualización y automatización.
+- **Mantenimiento y soporte:** actualizaciones, diagnóstico de incidencias, copias de seguridad y tareas recurrentes.
 
-**01 · Entender** — Escuchar qué necesitas y definir el alcance.
+| Modalidad | Cuándo encaja |
+|---|---|
+| **Proyecto con alcance cerrado** | Para entregables, plazos y presupuesto definidos de antemano. |
+| **Bolsa de horas** | Para mantenimiento, mejoras y administración recurrente. |
+| **Soporte técnico por horas** | Para incidencias e intervenciones puntuales. |
+| **Colaboración con equipos** | Para apoyar tareas específicas de desarrollo o sistemas. |
 
-**02 · Diseñar** — Elegir una solución sencilla y mantenible.
+La disponibilidad y el alcance se acuerdan tras revisar los requisitos y la viabilidad técnica.
 
-**03 · Construir** — Desarrollar, comprobar y desplegar.
+## ⚙️ Criterio de ingeniería
 
-**04 · Evolucionar** — Mantener, corregir y mejorar cuando haga falta.
+Priorizo soluciones comprensibles, comprobables y fáciles de evolucionar:
 
-## Contacto
+- **Arquitectura y código:** separación de responsabilidades, Clean Code, SOLID y evitar duplicaciones innecesarias.
+- **Calidad:** validación, pruebas y revisión de cambios según las necesidades de cada proyecto.
+- **Seguridad desde el diseño:** permisos mínimos, gestión cuidadosa de secretos y configuración segura.
+- **Operación:** despliegues reproducibles, automatización, trazabilidad y copias de seguridad cuando corresponda.
+- **Proporcionalidad:** escoger herramientas por su utilidad, sin sobreingeniería.
 
-¿Tienes un proyecto o quieres comentar una necesidad técnica? Puedes escribirme sin compromiso.
+**Tecnologías habituales:** Java · Spring Boot · TypeScript · React · Node.js · PostgreSQL · Linux · Docker · Proxmox · AWS · Ansible · Git · CI/CD.
 
-**Email:** [jlmn85@outlook.es](mailto:jlmn85@outlook.es)  
+## 🌱 Conocimiento y Open Source
 
+Esta organización también es un espacio para compartir conocimiento técnico, ejemplos y herramientas reutilizables cuando estén preparados para su publicación.
+
+**Repositorios públicos seleccionados:** pendiente de incorporar enlaces a proyectos publicados y preparados para recibir visitas o contribuciones.
+
+No todos los trabajos son públicos: la documentación, el código y las decisiones de proyectos internos o de clientes se mantienen fuera de este escaparate cuando corresponde.
+
+## 🤝 Comunidad y contribuciones
+
+Las aportaciones a repositorios públicos son bienvenidas. Para participar:
+
+1. Revisa el README, las instrucciones y la licencia del repositorio correspondiente.
+2. Abre una *Issue* para comunicar errores, proponer mejoras o plantear dudas sobre esa herramienta, si el repositorio tiene habilitada esa opción.
+3. Antes de una modificación importante, comenta la propuesta; si procede, envía una *Pull Request* con una explicación clara y las comprobaciones realizadas.
+
+La aceptación de contribuciones depende del alcance y mantenimiento de cada repositorio.
+
+## 🛠️ Ayuda y soporte
+
+- **Dudas o fallos de una herramienta pública:** utiliza las *Issues* del repositorio correspondiente, cuando estén habilitadas.
+- **Servicios profesionales, mantenimiento o soporte privado:** escribe por correo indicando el contexto, el objetivo y las necesidades.
+- **Seguridad o información sensible:** utiliza el correo privado; no publiques credenciales, datos personales ni detalles de vulnerabilidades en *Issues* públicas.
+
+## 📬 Contacto
+
+¿Necesitas desarrollar una aplicación, mejorar un entorno o automatizar una tarea?
+
+**Correo:** [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
+
+**Web:** devopsel.com *(enlace pendiente de habilitar)*
+
+---
+
+*DevOpsel Technology · Desarrollo, sistemas y automatización con criterio técnico.*
