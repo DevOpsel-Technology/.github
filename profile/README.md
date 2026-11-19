@@ -13,15 +13,6 @@ DevOpsel Technology es mi espacio técnico como freelance: aquí comparto lo que
 - **Mantenimiento técnico:** actualizaciones, copias de seguridad y tareas habituales de administración.
 - **Automatización:** scripts, Ansible y flujos de integración y despliegue continuo.
 
-## Proyectos destacados
-
-| Proyecto | Qué puedes ver | Enlace |
-|---|---|---|
-| **DevSel Trivia** | Aplicación de preguntas con funcionalidades multijugador | [Ver aplicación](https://trivia-app-frontend-self.vercel.app/) |
-| **DevSel Traductor** | Lector y traductor de documentos PDF con IA | [Ver repositorio](https://github.com/DevOpsel-Tech/Devsel-Traductor) |
-
-**En desarrollo y exploración:** CloudSel, Kubernetes/K3s, inteligencia artificial y agentes, y seguridad aplicada a software y sistemas. Son líneas de trabajo y aprendizaje, no servicios que presente como terminados.
-
 ## Tecnologías
 
 **Desarrollo:** TypeScript · React · Node.js · PostgreSQL · Java · Spring Boot
