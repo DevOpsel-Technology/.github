@@ -31,7 +31,7 @@ Estas áreas combinan trabajo práctico con especialización técnica continua. 
 <details>
 <summary><strong> 🤝 Servicios y modalidades de colaboración </strong></summary>
 
-Ayudo a profesionales, pymes y equipos técnicos a desarrollar, poner en marcha y mantener soluciones digitales.
+Ofrezco soluciones digitales a particulares, profesionales y pymes. También colaboro con empresas y equipos de desarrollo que necesitan apoyo técnico externo, puntual o durante un proyecto.
 
 - **Desarrollo de aplicaciones:** webs, paneles, APIs, integraciones y evolución de software existente.
 - **Infraestructura y despliegue:** configuración de servidores, contenedores, virtualización y automatización.
@@ -39,12 +39,12 @@ Ayudo a profesionales, pymes y equipos técnicos a desarrollar, poner en marcha 
 
 | Modalidad | Cuándo encaja |
 |---|---|
-| **Proyecto con alcance cerrado** | Para entregables, plazos y presupuesto definidos de antemano. |
-| **Bolsa de horas** | Para mantenimiento, mejoras y administración recurrente. |
-| **Soporte técnico por horas** | Para incidencias e intervenciones puntuales. |
-| **Colaboración con equipos** | Para apoyar tareas específicas de desarrollo o sistemas. |
+| **Proyecto con alcance cerrado** | Para una web, aplicación, API o trabajo definido, con entregables y condiciones acordados. |
+| **Trabajo por horas** | Para actualizaciones, mejoras, incidencias o tareas concretas. |
+| **Mantenimiento recurrente** | Para revisiones, soporte y evolución de soluciones existentes. |
+| **Refuerzo externo por proyecto** | Para colaborar con el equipo de otra empresa durante una fase o hasta finalizar un proyecto, con duración y dedicación acordadas. |
 
-La disponibilidad y el alcance se acuerdan tras revisar los requisitos y la viabilidad técnica.
+**Antes de aceptar un encargo**, estudio cada solicitud para valorar su alcance, viabilidad técnica, riesgos, disponibilidad y condiciones de colaboración. La duración y dedicación se acuerdan según el trabajo; no se presupone continuidad una vez finalizado el servicio.
 
 </details>
 
@@ -61,7 +61,7 @@ Priorizo soluciones comprensibles, comprobables y fáciles de evolucionar:
 - **Operación:** despliegues reproducibles, automatización, trazabilidad y copias de seguridad cuando corresponda.
 - **Proporcionalidad:** escoger herramientas por su utilidad, sin sobreingeniería.
 
-**Tecnologías habituales:** Java · Spring Boot · TypeScript · React · Node.js · PostgreSQL · Linux · Docker · Proxmox · AWS · Ansible · Git · CI/CD.
+**Tecnologías y entornos de trabajo:** TypeScript · React · Node.js · PostgreSQL · Linux · Docker · Proxmox · AWS · Ansible · Git · CI/CD. **En profundización:** Java · Spring Boot y orquestación de contenedores. Las herramientas concretas se seleccionan según los requisitos y la experiencia disponible.
 
 </details>
 
@@ -72,7 +72,7 @@ Priorizo soluciones comprensibles, comprobables y fáciles de evolucionar:
 
 Esta organización también es un espacio para compartir conocimiento técnico, ejemplos y herramientas reutilizables cuando estén preparados para su publicación.
 
-**Repositorios públicos seleccionados:** pendiente de incorporar enlaces a proyectos publicados y preparados para recibir visitas o contribuciones.
+Los proyectos y ejemplos públicos de esta organización se compartirán cuando estén preparados para su publicación. Los proyectos personales se mantienen separados de este espacio profesional.
 
 No todos los trabajos son públicos: la documentación, el código y las decisiones de proyectos internos o de clientes se mantienen fuera de este escaparate cuando corresponde.
 
@@ -108,11 +108,11 @@ La aceptación de contribuciones depende del alcance y mantenimiento de cada rep
 
 ## 📬 Contacto
 
-¿Necesitas desarrollar una aplicación, mejorar un entorno o automatizar una tarea?
+¿Necesitas una web, mejorar una aplicación existente, mantener tus sistemas o reforzar temporalmente tu equipo técnico? **Cuéntame qué necesitas**, el alcance aproximado y si buscas una colaboración por horas, por proyecto o de mantenimiento. Revisaré la propuesta antes de confirmar disponibilidad y condiciones.
 
 **Correo:** [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
 
-**Web:** devopsel.com *(enlace pendiente de habilitar)*
+**Web:** devopsel.com *(pendiente de habilitar)*
 
 ---
 
