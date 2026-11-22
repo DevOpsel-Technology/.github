@@ -6,7 +6,10 @@
 
 DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrollo de aplicaciones, la administración de sistemas y la automatización de entornos digitales. Trabajo con una perspectiva integral: construir software, preparar su infraestructura y facilitar su mantenimiento sin complejidad innecesaria.
 
-## 🧭 Áreas de actividad
+Selecciona un apartado para desplegar su contenido.
+
+<details>
+<summary><strong> 🧭 Áreas de actividad </strong></summary>
 
 | Área | Enfoque |
 |---|---|
@@ -19,7 +22,12 @@ DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrol
 
 Estas áreas combinan trabajo práctico con especialización técnica continua. La formación en Administración de Sistemas Informáticos en Red (ASIR) complementa mi experiencia en desarrollo y amplía progresivamente el alcance en infraestructura, redes y seguridad. Cada propuesta se ajusta a la experiencia y los recursos disponibles.
 
-## 🤝 Servicios y modalidades de colaboración
+</details>
+
+---
+
+<details>
+<summary><strong> 🤝 Servicios y modalidades de colaboración </strong></summary>
 
 Ayudo a profesionales, pymes y equipos técnicos a desarrollar, poner en marcha y mantener soluciones digitales.
 
@@ -36,7 +44,12 @@ Ayudo a profesionales, pymes y equipos técnicos a desarrollar, poner en marcha 
 
 La disponibilidad y el alcance se acuerdan tras revisar los requisitos y la viabilidad técnica.
 
-## ⚙️ Criterio de ingeniería
+</details>
+
+---
+
+<details>
+<summary><strong> ⚙️ Criterio de ingeniería </strong></summary>
 
 Priorizo soluciones comprensibles, comprobables y fáciles de evolucionar:
 
@@ -48,7 +61,12 @@ Priorizo soluciones comprensibles, comprobables y fáciles de evolucionar:
 
 **Tecnologías habituales:** Java · Spring Boot · TypeScript · React · Node.js · PostgreSQL · Linux · Docker · Proxmox · AWS · Ansible · Git · CI/CD.
 
-## 🌱 Conocimiento y Open Source
+</details>
+
+---
+
+<details>
+<summary><strong> 🌱 Conocimiento y Open Source </strong></summary>
 
 Esta organización también es un espacio para compartir conocimiento técnico, ejemplos y herramientas reutilizables cuando estén preparados para su publicación.
 
@@ -56,7 +74,12 @@ Esta organización también es un espacio para compartir conocimiento técnico, 
 
 No todos los trabajos son públicos: la documentación, el código y las decisiones de proyectos internos o de clientes se mantienen fuera de este escaparate cuando corresponde.
 
-## 🤝 Comunidad y contribuciones
+</details>
+
+---
+
+<details>
+<summary><strong> 🤝 Comunidad y contribuciones </strong></summary>
 
 Las aportaciones a repositorios públicos son bienvenidas. Para participar:
 
@@ -66,11 +89,20 @@ Las aportaciones a repositorios públicos son bienvenidas. Para participar:
 
 La aceptación de contribuciones depende del alcance y mantenimiento de cada repositorio.
 
-## 🛠️ Ayuda y soporte
+</details>
+
+---
+
+<details>
+<summary><strong> 🛠️ Ayuda y soporte </strong></summary>
 
 - **Dudas o fallos de una herramienta pública:** utiliza las *Issues* del repositorio correspondiente, cuando estén habilitadas.
 - **Servicios profesionales, mantenimiento o soporte privado:** escribe por correo indicando el contexto, el objetivo y las necesidades.
 - **Seguridad o información sensible:** utiliza el correo privado; no publiques credenciales, datos personales ni detalles de vulnerabilidades en *Issues* públicas.
+
+</details>
+
+---
 
 ## 📬 Contacto
 
