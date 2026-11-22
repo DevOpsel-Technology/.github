@@ -4,7 +4,9 @@
 
 **Del código a la infraestructura, con soluciones prácticas y mantenibles.**
 
-DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrollo de aplicaciones, la administración de sistemas y la automatización de entornos digitales. Trabajo con una perspectiva integral: construir software, preparar su infraestructura y facilitar su mantenimiento sin complejidad innecesaria.
+DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrollo de aplicaciones, la administración de sistemas y la automatización de entornos digitales. Ofrezco servicios a particulares, profesionales y empresas, desde la creación de software hasta su despliegue y mantenimiento.
+
+También colaboro como profesional externo con empresas y equipos técnicos que necesiten apoyo por horas, por proyecto o durante una etapa concreta de trabajo. El alcance, la dedicación y la duración se acuerdan según cada necesidad, sin compromiso de continuidad tras finalizar el servicio.
 
 👇 **Explora nuestras áreas: pulsa sobre cada sección para descubrir su contenido.**
 
