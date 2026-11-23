@@ -8,6 +8,14 @@ DevOpsel Technology es una iniciativa profesional freelance dedicada al desarrol
 
 También colaboro como profesional externo con empresas y equipos técnicos que necesiten apoyo por horas, por proyecto o durante una etapa concreta de trabajo. El alcance, la dedicación y la duración se acuerdan según cada necesidad, sin compromiso de continuidad tras finalizar el servicio.
 
+### 🌐 Entornos y Plataformas en Desarrollo
+
+* **Web Corporativa:** [devopsel.com](https://devopsel.com) — *Arquitectura Cloud, Sistemas y Desarrollo de Software (en construcción)*
+* **CloudSel PaaS:** [cloudsel.cloud](https://cloudsel.cloud) — *Plataforma de despliegue y gestión de contenedores (en construcción)*
+
+> **🕒 Ventana de disponibilidad (Demo / Desarrollo):**  
+> Ambas plataformas se encuentran actualmente en fase de desarrollo alojadas en infraestructura propia (*self-hosted*) y permanecen operativas **todos los días de 09:00 a 15:00 (CET / hora de Madrid)**. Fuera de ese horario los servidores se apagan automáticamente por eficiencia energética.
+
 👇 **Explora nuestras áreas: pulsa sobre cada sección para descubrir su contenido.**
 
 <details>
