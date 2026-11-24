@@ -13,8 +13,8 @@ También colaboro como profesional externo con empresas y equipos técnicos que 
 * **Web Corporativa:** [devopsel.com](https://devopsel.com) — *Arquitectura Cloud, Sistemas y Desarrollo de Software (en construcción)*
 * **CloudSel PaaS:** [cloudsel.cloud](https://cloudsel.cloud) — *Plataforma de despliegue y gestión de contenedores (en construcción)*
 
-> **🕒 Ventana de disponibilidad (Demo / Desarrollo):**  
-> Ambas plataformas se encuentran actualmente en fase de desarrollo alojadas en infraestructura propia (*self-hosted*) y permanecen operativas **todos los días de 09:00 a 15:00 (CET / hora de Madrid)**. Fuera de ese horario los servidores se apagan automáticamente por eficiencia energética.
+> **🕒 Horario de disponibilidad (Self-Hosted):**  
+> Las versiones de demostración y los proyectos en desarrollo, alojados en infraestructura propia, están disponibles diariamente de **09:00 a 15:00 (hora de Madrid)** por motivos de eficiencia energética.
 
 👇 **Explora nuestras áreas: pulsa sobre cada sección para descubrir su contenido.**
 
