@@ -11,7 +11,7 @@ También colaboro como profesional externo con empresas y equipos técnicos que 
 ### 🌐 Entornos y Plataformas en Desarrollo
 
 > **🕒 Horario de disponibilidad (Self-Hosted):**  
-> Las versiones de demostración y los proyectos en desarrollo, alojados en infraestructura propia, están disponibles diariamente de **09:00 a 15:00 (Europe/Madrid)** por motivos de eficiencia energética.
+> Las versiones de demostración y los proyectos en desarrollo, alojados en infraestructura propia, están disponibles diariamente de **09:00 a 16:00 (Europe/Madrid)** por motivos de eficiencia energética.
 
 👇 **Explora nuestras áreas: pulsa sobre cada sección para descubrir su contenido.**
 
